@@ -112,3 +112,7 @@ ul li:last-child {
     color: #fff;
 
 }
+
+.gasto-alto {
+    color: red;
+}
