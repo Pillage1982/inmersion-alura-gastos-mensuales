@@ -141,6 +141,10 @@ ul li:last-child {
         flex-direction: column;
         align-items: flex-start;
     }
+
+    .gasto-alto {
+        color: red;
+    }
 }
 
 @media (max-width: 480px) {
@@ -170,5 +174,9 @@ ul li:last-child {
 
     .total {
         font-size: 20px;
+    }
+
+    .gasto-alto {
+        color: red;
     }
 }
